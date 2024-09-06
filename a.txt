@@ -6,3 +6,4 @@ teste
 Enviando
 a funcionalidade
 X
+enviando a funcionadade b
